@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/arimo</item>
+        <item>@font/assistant</item>
+        <item>@font/barlow_medium</item>
+        <item>@font/cuprum</item>
+        <item>@font/didact_gothic</item>
+        <item>@font/maven_pro</item>
+        <item>@font/montserrat</item>
+        <item>@font/montserrat_light</item>
+        <item>@font/montserrat_medium</item>
+        <item>@font/mulish</item>
+        <item>@font/rubik</item>
+        <item>@font/source_sans_pro_extralight</item>
+        <item>@font/sulphur_point</item>
+        <item>@font/syne</item>
+    </array>
+</resources>
